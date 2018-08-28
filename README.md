@@ -25,7 +25,7 @@
 
 源代码：[https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract "https://github.com/tesseract-ocr/tesseract")
 
-可执行文件：[http://download.csdn.net/download/whatday/7740469](http://download.csdn.net/download/whatday/7740469 http://download.csdn.net/download/whatday/7740469)
+可执行文件：[http://download.csdn.net/download/whatday/7740469](http://download.csdn.net/download/whatday/7740469)
 
 ## 使用tesseract
 
