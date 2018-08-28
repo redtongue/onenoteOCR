@@ -1,0 +1,18 @@
+tesseract test.jpg result -l chi_sim    //图片识别
+
+1.tesseract mjorcen.normal.exp0.jpg mjorcen.normal.exp0 -l chi_sim batch.nochop makebox//生成box文件（注意文件命名方式）
+
+2.校正
+
+3.tesseract mjorcen.normal.exp0.jpg mjorcen.normal.exp0 nobatch box.train//训练 生成tr文件
+4.unicharset_extractor mjorcen.normal.exp0.box//计算字符集,从生成的 box文件中提取?
+5.新建font_properties文件内容：normal 0 0 0 0 0
+
+（mftraining -F font_properties -U unicharset mjorcen.normal.exp0.tr）
+：shapeclustering -F font_properties -U unicharset mjorcen.normal.exp0.tr
+：mftraining -F font_properties -U unicharset -O unicharset mjorcen.normal.exp0.tr
+
+6.cntraining mjorcen.normal.exp0.tr//聚集tesseract 识别的训练文件
+把目录下的unicharset、inttemp、pffmtable、shapetable、normproto这五个文件前面都加上normal.
+
+7.combine_tessdata normal.  //合并得到normal.traineddata
