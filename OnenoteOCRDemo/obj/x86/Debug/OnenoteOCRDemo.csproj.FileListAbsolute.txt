@@ -1,0 +1,40 @@
+F:\OCR\OCRDemo\OnenoteOCRDemo\bin\Debug\OnenoteOCRDemo.exe.config
+F:\OCR\OCRDemo\OnenoteOCRDemo\bin\Debug\OnenoteOCRDemo.exe
+F:\OCR\OCRDemo\OnenoteOCRDemo\bin\Debug\OnenoteOCRDemo.pdb
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.csproj.ResolveComReference.cache
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\MainWindow.g.cs
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\App.g.cs
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo_MarkupCompile.cache
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo_MarkupCompile.lref
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\MainWindow.baml
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.g.resources
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.Properties.Resources.resources
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.exe
+F:\OCR\OCRDemo\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.pdb
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\bin\Debug\OnenoteOCRDemo.exe.config
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.csproj.ResolveComReference.cache
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.exe
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.pdb
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\MainWindow.g.cs
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\App.g.cs
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo_MarkupCompile.cache
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo_MarkupCompile.lref
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\bin\Debug\OnenoteOCRDemo.exe
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\bin\Debug\OnenoteOCRDemo.pdb
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\Interop.Microsoft.Office.Interop.OneNote.dll
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\MainWindow.baml
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.g.resources
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.Properties.Resources.resources
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.csproj.GenerateResource.Cache
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\bin\Debug\Oracle.DataAccess.dll
+D:\software\visual studio\file\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.csprojResolveAssemblyReference.cache
+C:\Users\red_tongue\Desktop\OnenoteOCRDemo_example\OnenoteOCRDemo\bin\Debug\OnenoteOCRDemo.exe.config
+C:\Users\red_tongue\Desktop\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\Interop.Microsoft.Office.Interop.OneNote.dll
+C:\Users\red_tongue\Desktop\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.csproj.ResolveComReference.cache
+C:\Users\red_tongue\Desktop\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.exe
+C:\Users\red_tongue\Desktop\OnenoteOCRDemo_example\OnenoteOCRDemo\obj\x86\Debug\OnenoteOCRDemo.pdb

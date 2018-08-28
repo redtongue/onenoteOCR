@@ -1,0 +1,8 @@
+D:\software\visual studio\file\OnenoteOCRDemo_example\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\software\visual studio\file\OnenoteOCRDemo_example\ConsoleApplication1\obj\Debug\Interop.Microsoft.Office.Interop.OneNote.dll
+D:\software\visual studio\file\OnenoteOCRDemo_example\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+D:\software\visual studio\file\OnenoteOCRDemo_example\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\software\visual studio\file\OnenoteOCRDemo_example\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\software\visual studio\file\OnenoteOCRDemo_example\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\software\visual studio\file\OnenoteOCRDemo_example\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\software\visual studio\file\OnenoteOCRDemo_example\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

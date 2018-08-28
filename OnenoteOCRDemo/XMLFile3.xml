@@ -1,0 +1,243 @@
+﻿<?xml version="1.0"?>
+<one:Page xmlns:one="http://schemas.microsoft.com/office/onenote/2010/onenote" ID="{6506BE8D-72F1-461D-AB41-632D60CCD6D3}{1}{B0}" name="Current date: 2010年10月6日" dateTime="2010-10-06T02:33:02.000Z" lastModifiedTime="2010-10-06T04:50:00.000Z" pageLevel="1" isCurrentlyViewed="true" lang="zh-CN">
+    <one:QuickStyleDef index="0" name="PageTitle" fontColor="automatic" highlightColor="automatic" font="Calibri" fontSize="17.0" spaceBefore="0.0" spaceAfter="0.0"/>
+    <one:QuickStyleDef index="1" name="p" fontColor="automatic" highlightColor="automatic" font="Calibri" fontSize="11.0" spaceBefore="0.0" spaceAfter="0.0"/>
+    <one:PageSettings RTL="false" color="automatic">
+        <one:PageSize>
+            <one:Automatic/>
+        </one:PageSize>
+        <one:RuleLines visible="false"/>
+    </one:PageSettings>
+    <one:Title lang="zh-CN">
+        <one:OE author="Brooks" authorInitials="WS" lastModifiedBy="Brooks" lastModifiedByInitials="WS" creationTime="2010-10-06T02:33:02.000Z" lastModifiedTime="2010-10-06T02:33:02.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{15}{B0}" alignment="left" quickStyleIndex="0">
+            <one:T><![CDATA[]]></one:T>
+        </one:OE>
+    </one:Title>
+    <one:Outline author="Brooks" authorInitials="WS" lastModifiedBy="Brooks" lastModifiedByInitials="WS" lastModifiedTime="2010-10-06T03:45:24.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{106}{B0}">
+        <one:Position x="72.0" y="212.4000091552734" z="0"/>
+        <one:Size width="847.500244140625" height="825.5770874023437" isSetByUser="true"/>
+        <one:OEChildren indent="14">
+            <one:OE creationTime="2010-10-06T02:53:30.000Z" lastModifiedTime="2010-10-06T02:53:30.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{183}{B0}" alignment="left" quickStyleIndex="1">
+                <one:T><![CDATA[]]></one:T>
+            </one:OE>
+            <one:OE creationTime="2010-10-06T02:53:33.000Z" lastModifiedTime="2010-10-06T02:53:33.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{186}{B0}" alignment="left" quickStyleIndex="1">
+                <one:T><![CDATA[]]></one:T>
+            </one:OE>
+            <one:OE creationTime="2010-10-06T02:53:33.000Z" lastModifiedTime="2010-10-06T02:53:33.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{189}{B0}" alignment="left" quickStyleIndex="1">
+                <one:T><![CDATA[]]></one:T>
+            </one:OE>
+            <one:OE creationTime="2010-10-06T02:53:33.000Z" lastModifiedTime="2010-10-06T02:53:33.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{191}{B0}" alignment="left" quickStyleIndex="1">
+                <one:T><![CDATA[]]></one:T>
+            </one:OE>
+            <one:OE creationTime="2010-10-06T02:53:33.000Z" lastModifiedTime="2010-10-06T02:53:33.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{193}{B0}" alignment="left" quickStyleIndex="1">
+                <one:T><![CDATA[]]></one:T>
+            </one:OE>
+            <one:OE creationTime="2010-10-06T02:53:33.000Z" lastModifiedTime="2010-10-06T02:53:33.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{195}{B0}" alignment="left" quickStyleIndex="1">
+                <one:T><![CDATA[]]></one:T>
+            </one:OE>
+            <one:OE creationTime="2010-10-06T02:53:33.000Z" lastModifiedTime="2010-10-06T02:53:33.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{197}{B0}" alignment="left" quickStyleIndex="1">
+                <one:T><![CDATA[]]></one:T>
+                <one:OEChildren>
+                    <one:OE creationTime="2010-10-06T02:38:04.000Z" lastModifiedTime="2010-10-06T02:38:06.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{92}{B0}" alignment="left">
+                        <one:Image format="jpg" originalPageNumber="0">
+                            <one:Size width="432.0" height="240.1490631103516"/>
+                            <one:CallbackID callbackID="{E13C4904-E707-4980-83FD-C92F117109E1}{91}{B0}"/>
+                            <one:OCRData lang="en-US">
+                                <one:OCRText>
+                                    <![CDATA[ew features in One Note 14
+Gather, organize, and search
+. Improved organization inside sections
+O Multi-level subpages
+o Collapsing subpages
+O Drag-dropto make a subpage
+o In-place New Page button
+. Updated Search that抯 faster than navigating
+. Improved hyperlinkingof notes, wiki links
+. Outlook and lE integration improvements
+O Section picker when sendingtoOneNote
+o Notes on Outlook tasks
+. QuIck Styles for making headings
+. Linked note-taking on Web pages and documents
+. Math support
+. Dock to Desktop mode
+Sharing and universal access
+. Access from everywhere
+O Share on the Web
+O Browser access
+O OneNote Mobile- syncs with the Web
+. Sharing enhancements:
+O Unread highlighting
+O Author marks
+O Recent Edits
+O Find by Author
+o VersioningandRecycleBin
+O Faster sync with SharePoint
+. Improved OneNoteMobile for mobile devices
+O Sync overtheair
+O Sync selected notebooks or sections]]>
+                                </one:OCRText>
+                                <one:OCRToken startPos="0" region="0" line="0" x="15.02362251281738" y="3.968503952026367" width="16.44094467163086" height="6.803150177001953"/>
+                                <one:OCRToken startPos="3" region="0" line="0" x="34.0157470703125" y="1.133858203887939" width="48.47244262695312" height="9.637796401977539"/>
+                                <one:OCRToken startPos="12" region="0" line="0" x="85.88975524902344" y="1.984251976013184" width="9.637796401977539" height="8.78740119934082"/>
+                                <one:OCRToken startPos="15" region="0" line="0" x="98.64566802978515" y="1.984251976013184" width="22.96063232421875" height="8.78740119934082"/>
+                                <one:OCRToken startPos="19" region="0" line="0" x="123.3070907592773" y="1.984251976013184" width="27.77952766418457" height="8.78740119934082"/>
+                                <one:OCRToken startPos="24" region="0" line="0" x="154.7716522216797" y="1.984251976013184" width="13.03936958312988" height="8.78740119934082"/>
+                                <one:OCRToken startPos="27" region="1" line="1" x="5.38582706451416" y="26.64566802978516" width="36.28346252441406" height="10.48818969726562"/>
+                                <one:OCRToken startPos="35" region="1" line="1" x="44.50393676757812" y="27.49606323242187" width="44.50393676757812" height="9.637796401977539"/>
+                                <one:OCRToken startPos="45" region="1" line="1" x="92.12598419189453" y="26.64566802978516" width="18.14173126220703" height="8.503936767578125"/>
+                                <one:OCRToken startPos="49" region="1" line="1" x="113.3858261108398" y="26.64566802978516" width="31.18110275268555" height="8.503936767578125"/>
+                                <one:OCRToken startPos="56" region="1" line="2" x="4.818898200988769" y="47.62204742431641" width="3.401575088500976" height="3.968503952026367"/>
+                                <one:OCRToken startPos="58" region="1" line="2" x="20.1259822845459" y="45.9212646484375" width="42.51968765258789" height="9.35433006286621"/>
+                                <one:OCRToken startPos="67" region="1" line="2" x="64.91338348388671" y="46.2047233581543" width="54.99212646484375" height="9.35433006286621"/>
+                                <one:OCRToken startPos="80" region="1" line="2" x="122.4566955566406" y="45.9212646484375" width="25.7952766418457" height="7.370078563690185"/>
+                                <one:OCRToken startPos="87" region="1" line="2" x="150.5196838378906" y="46.2047233581543" width="36.0" height="7.08661413192749"/>
+                                <one:OCRToken startPos="96" region="1" line="3" x="33.44881820678711" y="60.09449005126953" width="5.38582706451416" height="5.952755928039551"/>
+                                <one:OCRToken startPos="98" region="1" line="3" x="44.22047424316406" y="58.67716598510742" width="48.47244262695312" height="7.937007904052734"/>
+                                <one:OCRToken startPos="110" region="1" line="3" x="94.9606246948242" y="58.96062850952148" width="41.10236358642578" height="9.637796401977539"/>
+                                <one:OCRToken startPos="119" region="1" line="4" x="33.44881820678711" y="75.40157318115234" width="5.38582706451416" height="5.669291496276855"/>
+                                <one:OCRToken startPos="121" region="1" line="4" x="43.93700790405273" y="74.26771545410156" width="46.48818969726562" height="9.637796401977539"/>
+                                <one:OCRToken startPos="132" region="1" line="4" x="92.12598419189453" y="74.26771545410156" width="41.10236358642578" height="9.637796401977539"/>
+                                <one:OCRToken startPos="141" region="1" line="5" x="33.44881820678711" y="89.85826873779297" width="5.38582706451416" height="5.952755928039551"/>
+                                <one:OCRToken startPos="143" region="1" line="5" x="44.22047424316406" y="88.72441101074218" width="55.27558898925781" height="9.921258926391602"/>
+                                <one:OCRToken startPos="155" region="1" line="5" x="102.6141738891602" y="88.72441101074218" width="23.8110237121582" height="7.937007904052734"/>
+                                <one:OCRToken startPos="160" region="1" line="5" x="128.6929168701172" y="90.70866394042968" width="3.968503952026367" height="5.952755928039551"/>
+                                <one:OCRToken startPos="162" region="1" line="5" x="136.06298828125" y="88.72441101074218" width="37.13385772705078" height="9.921258926391602"/>
+                                <one:OCRToken startPos="170" region="1" line="6" x="33.44881820678711" y="105.4488220214844" width="5.38582706451416" height="5.38582706451416"/>
+                                <one:OCRToken startPos="172" region="1" line="6" x="44.22047424316406" y="104.031494140625" width="35.14960479736328" height="9.637796401977539"/>
+                                <one:OCRToken startPos="181" region="1" line="6" x="82.20472717285156" y="104.5984268188477" width="20.40944671630859" height="7.08661413192749"/>
+                                <one:OCRToken startPos="185" region="1" line="6" x="104.8818893432617" y="104.5984268188477" width="20.97637939453125" height="9.070865631103515"/>
+                                <one:OCRToken startPos="190" region="1" line="6" x="128.1259765625" y="104.031494140625" width="29.48031425476074" height="7.653543472290039"/>
+                                <one:OCRToken startPos="197" region="1" line="7" x="4.818898200988769" y="124.4409484863281" width="3.401575088500976" height="3.685039281845092"/>
+                                <one:OCRToken startPos="199" region="1" line="7" x="20.1259822845459" y="122.4566955566406" width="37.41732025146484" height="9.637796401977539"/>
+                                <one:OCRToken startPos="207" region="1" line="7" x="60.09449005126953" y="122.4566955566406" width="28.91338539123535" height="7.370078563690185"/>
+                                <one:OCRToken startPos="214" region="1" line="7" x="91.27558898925781" y="122.1732177734375" width="24.0944881439209" height="7.653543472290039"/>
+                                <one:OCRToken startPos="220" region="1" line="7" x="118.2047271728516" y="121.889762878418" width="26.36220550537109" height="7.937007904052734"/>
+                                <one:OCRToken startPos="227" region="1" line="7" x="145.9842529296875" y="122.4566955566406" width="19.55905342102051" height="7.370078563690185"/>
+                                <one:OCRToken startPos="232" region="1" line="7" x="168.9448699951172" y="122.7401580810547" width="46.2047233581543" height="9.35433006286621"/>
+                                <one:OCRToken startPos="243" region="1" line="8" x="4.818898200988769" y="140.5984191894531" width="3.401575088500976" height="3.685039281845092"/>
+                                <one:OCRToken startPos="245" region="1" line="8" x="20.1259822845459" y="138.6141815185547" width="42.51968765258789" height="9.35433006286621"/>
+                                <one:OCRToken startPos="254" region="1" line="8" x="65.19684600830078" y="138.3307037353516" width="65.48031616210937" height="9.921258926391602"/>
+                                <one:OCRToken startPos="269" region="1" line="8" x="132.3779602050781" y="139.1810913085937" width="27.21260070800781" height="7.937007904052734"/>
+                                <one:OCRToken startPos="276" region="1" line="8" x="162.1417388916016" y="138.6141815185547" width="17.85826683044434" height="7.370078563690185"/>
+                                <one:OCRToken startPos="281" region="1" line="8" x="182.8346405029297" y="138.3307037353516" width="19.8425178527832" height="7.937007904052734"/>
+                                <one:OCRToken startPos="287" region="1" line="9" x="4.818898200988769" y="156.4724273681641" width="3.401575088500976" height="3.968503952026367"/>
+                                <one:OCRToken startPos="289" region="1" line="9" x="19.8425178527832" y="154.2047424316406" width="36.0" height="7.937007904052734"/>
+                                <one:OCRToken startPos="297" region="1" line="9" x="57.54330444335937" y="154.4881896972656" width="16.15748023986816" height="7.653543472290039"/>
+                                <one:OCRToken startPos="301" region="1" line="9" x="76.53543090820312" y="155.0551147460937" width="7.08661413192749" height="7.08661413192749"/>
+                                <one:OCRToken startPos="304" region="1" line="9" x="86.74015808105468" y="155.0551147460937" width="49.03936767578125" height="9.070865631103515"/>
+                                <one:OCRToken startPos="316" region="1" line="9" x="138.6141815185547" y="155.3385772705078" width="63.77952575683593" height="8.503936767578125"/>
+                                <one:OCRToken startPos="329" region="1" line="10" x="27.49606323242187" y="168.6614227294922" width="5.38582706451416" height="5.952755928039551"/>
+                                <one:OCRToken startPos="331" region="1" line="10" x="43.93700790405273" y="168.0944976806641" width="32.5984230041504" height="7.08661413192749"/>
+                                <one:OCRToken startPos="339" region="1" line="10" x="79.08660888671875" y="167.81103515625" width="27.21260070800781" height="9.070865631103515"/>
+                                <one:OCRToken startPos="346" region="1" line="10" x="108.2834625244141" y="167.81103515625" width="24.37795448303222" height="7.370078563690185"/>
+                                <one:OCRToken startPos="351" region="1" line="10" x="135.4960632324219" y="167.81103515625" width="87.87401580810547" height="9.637796401977539"/>
+                                <one:OCRToken startPos="368" region="1" line="11" x="27.49606323242187" y="181.1338500976562" width="5.38582706451416" height="5.669291496276855"/>
+                                <one:OCRToken startPos="370" region="1" line="11" x="44.22047424316406" y="180.5669250488281" width="26.07873916625977" height="6.803150177001953"/>
+                                <one:OCRToken startPos="376" region="1" line="11" x="72.56692504882812" y="181.9842529296875" width="10.77165412902832" height="5.38582706451416"/>
+                                <one:OCRToken startPos="379" region="1" line="11" x="85.32283782958984" y="180.0" width="36.28346252441406" height="7.370078563690185"/>
+                                <one:OCRToken startPos="387" region="1" line="11" x="123.3070907592773" y="180.0" width="22.11023712158203" height="7.370078563690185"/>
+                                <one:OCRToken startPos="393" region="1" line="12" x="4.818898200988769" y="200.9763793945312" width="3.401575088500976" height="3.685039281845092"/>
+                                <one:OCRToken startPos="395" region="1" line="12" x="19.8425178527832" y="198.9921112060547" width="24.94488334655762" height="8.22047233581543"/>
+                                <one:OCRToken startPos="401" region="1" line="12" x="46.77165222167969" y="198.9921112060547" width="26.64566802978516" height="9.35433006286621"/>
+                                <one:OCRToken startPos="408" region="1" line="12" x="75.40157318115234" y="198.4251861572265" width="12.7559061050415" height="7.937007904052734"/>
+                                <one:OCRToken startPos="412" region="1" line="12" x="90.14173126220703" y="198.9921112060547" width="32.031494140625" height="9.637796401977539"/>
+                                <one:OCRToken startPos="419" region="1" line="12" x="124.4409484863281" y="198.9921112060547" width="39.968505859375" height="9.637796401977539"/>
+                                <one:OCRToken startPos="428" region="1" line="13" x="4.818898200988769" y="217.1338500976562" width="3.401575088500976" height="3.685039281845092"/>
+                                <one:OCRToken startPos="430" region="1" line="13" x="20.1259822845459" y="215.1496124267578" width="28.62992286682129" height="7.653543472290039"/>
+                                <one:OCRToken startPos="437" region="1" line="13" x="51.30708694458008" y="215.1496124267578" width="51.30708694458008" height="9.637796401977539"/>
+                                <one:OCRToken startPos="449" region="1" line="13" x="104.3149566650391" y="216.8503875732422" width="11.05511856079102" height="5.952755928039551"/>
+                                <one:OCRToken startPos="452" region="1" line="13" x="117.3543319702148" y="215.1496124267578" width="20.69291496276855" height="7.653543472290039"/>
+                                <one:OCRToken startPos="456" region="1" line="13" x="140.3149566650391" y="216.8503875732422" width="25.51181221008301" height="7.937007904052734"/>
+                                <one:OCRToken startPos="462" region="1" line="13" x="167.81103515625" y="214.8661346435547" width="16.15748023986816" height="7.937007904052734"/>
+                                <one:OCRToken startPos="466" region="1" line="13" x="186.5196990966797" y="215.1496124267578" width="49.32283401489258" height="7.653543472290039"/>
+                                <one:OCRToken startPos="476" region="1" line="14" x="4.818898200988769" y="232.4409332275391" width="3.401575088500976" height="3.685039281845092"/>
+                                <one:OCRToken startPos="478" region="1" line="14" x="20.1259822845459" y="230.4566955566406" width="22.39370155334473" height="7.370078563690185"/>
+                                <one:OCRToken startPos="483" region="1" line="14" x="45.35433197021484" y="230.7401733398437" width="34.5826759338379" height="9.070865631103515"/>
+                                <one:OCRToken startPos="491" region="1" line="15" x="4.818898200988769" y="248.3149566650391" width="3.401575088500976" height="3.968503952026367"/>
+                                <one:OCRToken startPos="493" region="1" line="15" x="20.1259822845459" y="246.6141815185547" width="21.25984382629395" height="7.370078563690185"/>
+                                <one:OCRToken startPos="498" region="1" line="15" x="43.65354537963867" y="247.1810913085937" width="9.070865631103515" height="6.803150177001953"/>
+                                <one:OCRToken startPos="501" region="1" line="15" x="55.84252166748047" y="246.6141815185547" width="36.28346252441406" height="9.35433006286621"/>
+                                <one:OCRToken startPos="509" region="1" line="15" x="94.3936996459961" y="246.6141815185547" width="25.51181221008301" height="7.370078563690185"/>
+                                <one:OCRToken startPos="514" region="2" line="16" x="258.5196838378906" y="26.64566802978516" width="36.85039138793945" height="10.48818969726562"/>
+                                <one:OCRToken startPos="522" region="2" line="16" x="298.7716369628906" y="26.64566802978516" width="17.85826683044434" height="8.503936767578125"/>
+                                <one:OCRToken startPos="526" region="2" line="16" x="320.031494140625" y="26.64566802978516" width="43.37007904052734" height="8.503936767578125"/>
+                                <one:OCRToken startPos="536" region="2" line="16" x="366.5196838378906" y="29.76378059387207" width="30.33070755004883" height="5.38582706451416"/>
+                                <one:OCRToken startPos="543" region="2" line="17" x="257.9527587890625" y="47.62204742431641" width="3.401575088500976" height="3.968503952026367"/>
+                                <one:OCRToken startPos="545" region="2" line="17" x="272.9763793945312" y="46.2047233581543" width="29.48031425476074" height="7.08661413192749"/>
+                                <one:OCRToken startPos="552" region="2" line="17" x="304.4409484863281" y="45.63779449462891" width="20.97637939453125" height="7.653543472290039"/>
+                                <one:OCRToken startPos="557" region="2" line="17" x="327.968505859375" y="45.9212646484375" width="53.85826873779297" height="9.637796401977539"/>
+                                <one:OCRToken startPos="568" region="2" line="18" x="279.7795104980469" y="60.09449005126953" width="5.669291496276855" height="5.952755928039551"/>
+                                <one:OCRToken startPos="570" region="2" line="18" x="290.5512084960937" y="58.67716598510742" width="24.94488334655762" height="7.937007904052734"/>
+                                <one:OCRToken startPos="576" region="2" line="18" x="317.7637939453125" y="60.66141510009766" width="10.77165412902832" height="5.952755928039551"/>
+                                <one:OCRToken startPos="579" region="2" line="18" x="331.0866394042969" y="58.96062850952148" width="15.02362251281738" height="7.653543472290039"/>
+                                <one:OCRToken startPos="583" region="2" line="18" x="348.3779296875" y="58.96062850952148" width="20.40944671630859" height="7.653543472290039"/>
+                                <one:OCRToken startPos="587" region="2" line="19" x="279.7795104980469" y="75.40157318115234" width="5.669291496276855" height="5.669291496276855"/>
+                                <one:OCRToken startPos="589" region="2" line="19" x="290.5512084960937" y="74.55117797851562" width="37.13385772705078" height="7.08661413192749"/>
+                                <one:OCRToken startPos="597" region="2" line="19" x="329.1023559570312" y="75.96849822998047" width="28.06299209594727" height="5.669291496276855"/>
+                                <one:OCRToken startPos="604" region="2" line="20" x="279.7795104980469" y="89.85826873779297" width="5.669291496276855" height="5.952755928039551"/>
+                                <one:OCRToken startPos="606" region="2" line="20" x="290.5512084960937" y="89.29133605957031" width="40.81889343261719" height="7.370078563690185"/>
+                                <one:OCRToken startPos="614" region="2" line="20" x="333.9212646484375" y="88.72441101074218" width="36.28346252441406" height="7.937007904052734"/>
+                                <one:OCRToken startPos="622" region="2" line="20" x="372.4724426269531" y="90.70866394042968" width="23.24409484863281" height="7.653543472290039"/>
+                                <one:OCRToken startPos="628" region="2" line="20" x="397.9842224121094" y="88.72441101074218" width="19.55905342102051" height="7.937007904052734"/>
+                                <one:OCRToken startPos="633" region="2" line="20" x="419.5275573730469" y="88.72441101074218" width="15.02362251281738" height="7.937007904052734"/>
+                                <one:OCRToken startPos="637" region="2" line="20" x="436.251953125" y="88.72441101074218" width="20.69291496276855" height="7.937007904052734"/>
+                                <one:OCRToken startPos="641" region="2" line="21" x="257.9527587890625" y="109.9842529296875" width="3.401575088500976" height="3.685039281845092"/>
+                                <one:OCRToken startPos="643" region="2" line="21" x="273.2598571777344" y="107.7165374755859" width="33.16535186767578" height="9.921258926391602"/>
+                                <one:OCRToken startPos="651" region="2" line="21" x="308.1259460449219" y="107.7165374755859" width="68.59842681884765" height="7.653543472290039"/>
+                                <one:OCRToken startPos="665" region="2" line="22" x="279.7795104980469" y="121.889762878418" width="5.669291496276855" height="5.952755928039551"/>
+                                <one:OCRToken startPos="667" region="2" line="22" x="290.8346557617187" y="120.7558975219727" width="31.74803161621094" height="7.653543472290039"/>
+                                <one:OCRToken startPos="674" region="2" line="22" x="325.9842224121094" y="120.7558975219727" width="51.8740119934082" height="9.921258926391602"/>
+                                <one:OCRToken startPos="687" region="2" line="23" x="279.7795104980469" y="136.9133758544922" width="5.669291496276855" height="5.38582706451416"/>
+                                <one:OCRToken startPos="689" region="2" line="23" x="290.2677001953125" y="135.4960632324219" width="31.46456718444824" height="7.653543472290039"/>
+                                <one:OCRToken startPos="696" region="2" line="23" x="323.7165222167969" y="135.4960632324219" width="26.36220550537109" height="7.653543472290039"/>
+                                <one:OCRToken startPos="702" region="2" line="24" x="279.7795104980469" y="151.936996459961" width="5.669291496276855" height="5.669291496276855"/>
+                                <one:OCRToken startPos="704" region="2" line="24" x="290.8346557617187" y="151.0866088867187" width="30.61417388916016" height="7.370078563690185"/>
+                                <one:OCRToken startPos="711" region="2" line="24" x="323.7165222167969" y="150.8031463623047" width="21.25984382629395" height="7.653543472290039"/>
+                                <one:OCRToken startPos="717" region="2" line="25" x="279.7795104980469" y="167.2440948486328" width="5.669291496276855" height="5.952755928039551"/>
+                                <one:OCRToken startPos="719" region="2" line="25" x="290.8346557617187" y="166.1102294921875" width="18.70866012573242" height="7.653543472290039"/>
+                                <one:OCRToken startPos="724" region="2" line="25" x="312.094482421875" y="166.3937072753906" width="10.2047233581543" height="9.35433006286621"/>
+                                <one:OCRToken startPos="727" region="2" line="25" x="324.0" y="166.3937072753906" width="31.18110275268555" height="7.370078563690185"/>
+                                <one:OCRToken startPos="734" region="2" line="26" x="279.7795104980469" y="181.9842529296875" width="5.669291496276855" height="5.38582706451416"/>
+                                <one:OCRToken startPos="736" region="2" line="26" x="290.5512084960937" y="180.8503875732422" width="117.3543319702148" height="9.637796401977539"/>
+                                <one:OCRToken startPos="760" region="2" line="27" x="279.7795104980469" y="197.0078582763672" width="5.669291496276855" height="5.952755928039551"/>
+                                <one:OCRToken startPos="762" region="2" line="27" x="291.1181030273437" y="196.4409484863281" width="26.64566802978516" height="7.08661413192749"/>
+                                <one:OCRToken startPos="769" region="2" line="27" x="320.031494140625" y="198.1417388916016" width="18.99212455749512" height="7.370078563690185"/>
+                                <one:OCRToken startPos="774" region="2" line="27" x="341.8582763671875" y="196.157470703125" width="19.27559280395508" height="7.370078563690185"/>
+                                <one:OCRToken startPos="779" region="2" line="27" x="363.68505859375" y="196.4409484863281" width="49.03936767578125" height="7.08661413192749"/>
+                                <one:OCRToken startPos="790" region="2" line="28" x="257.9527587890625" y="216.5669250488281" width="3.401575088500976" height="3.685039281845092"/>
+                                <one:OCRToken startPos="792" region="2" line="28" x="273.2598571777344" y="214.2992095947266" width="42.80315017700195" height="9.35433006286621"/>
+                                <one:OCRToken startPos="801" region="2" line="28" x="318.6141967773437" y="214.0157470703125" width="73.70078277587891" height="7.653543472290039"/>
+                                <one:OCRToken startPos="815" region="2" line="28" x="394.0157165527344" y="214.0157470703125" width="13.03936958312988" height="7.653543472290039"/>
+                                <one:OCRToken startPos="819" region="2" line="28" x="409.0393676757812" y="214.0157470703125" width="30.33070755004883" height="7.653543472290039"/>
+                                <one:OCRToken startPos="826" region="2" line="28" x="441.6377868652344" y="214.0157470703125" width="32.031494140625" height="7.653543472290039"/>
+                                <one:OCRToken startPos="834" region="2" line="29" x="279.7795104980469" y="228.4724273681641" width="5.669291496276855" height="5.952755928039551"/>
+                                <one:OCRToken startPos="836" region="2" line="29" x="290.5512084960937" y="227.6220550537109" width="20.1259822845459" height="9.35433006286621"/>
+                                <one:OCRToken startPos="841" region="2" line="29" x="313.2283630371094" y="227.6220550537109" width="50.1732292175293" height="7.370078563690185"/>
+                                <one:OCRToken startPos="852" region="2" line="30" x="279.7795104980469" y="243.7795257568359" width="5.669291496276855" height="5.952755928039551"/>
+                                <one:OCRToken startPos="854" region="2" line="30" x="290.5512084960937" y="243.2126007080078" width="20.1259822845459" height="9.35433006286621"/>
+                                <one:OCRToken startPos="859" region="2" line="30" x="313.2283630371094" y="242.6456604003906" width="37.70078659057617" height="7.653543472290039"/>
+                                <one:OCRToken startPos="868" region="2" line="30" x="353.4802856445312" y="242.6456604003906" width="46.2047233581543" height="7.653543472290039"/>
+                                <one:OCRToken startPos="878" region="2" line="30" x="401.3858337402344" y="244.9133911132812" width="9.35433006286621" height="5.38582706451416"/>
+                                <one:OCRToken startPos="881" region="2" line="30" x="412.4409484863281" y="243.4960632324219" width="36.5669288635254" height="6.803150177001953"/>
+                            </one:OCRData>
+                        </one:Image>
+                    </one:OE>
+                </one:OEChildren>
+            </one:OE>
+        </one:OEChildren>
+    </one:Outline>
+    <one:Image format="jpg" lastModifiedTime="2010-10-06T03:45:46.000Z" objectID="{E13C4904-E707-4980-83FD-C92F117109E1}{71}{B0}">
+        <one:Position x="18.0" y="302.3999938964844" z="1"/>
+        <one:Size width="421.5000305175781" height="263.8065490722656" isSetByUser="true"/>
+        <one:CallbackID callbackID="{E13C4904-E707-4980-83FD-C92F117109E1}{71}{B0}"/>
+    </one:Image>
+    <one:Outline author="Brooks" authorInitials="WS" lastModifiedBy="Brooks" lastModifiedByInitials="WS" lastModifiedTime="2010-10-06T04:49:54.000Z" objectID="{9C53EE63-B289-40A1-9CA9-2E45F2F833B0}{84}{B0}">
+        <one:Position x="36.0" y="1058.400024414062" z="2"/>
+        <one:Size width="174.1509399414062" height="14.30001068115234"/>
+        <one:OEChildren>
+            <one:OE creationTime="2010-10-06T04:49:54.000Z" lastModifiedTime="2010-10-06T04:49:54.000Z" objectID="{9C53EE63-B289-40A1-9CA9-2E45F2F833B0}{85}{B0}" alignment="left" quickStyleIndex="1">
+                <one:T><![CDATA[Current date: 2010年10月6日]]></one:T>
+            </one:OE>
+        </one:OEChildren>
+    </one:Outline>
+</one:Page>

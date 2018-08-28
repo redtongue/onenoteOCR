@@ -1,0 +1,68 @@
+﻿<Window x:Class="OnenoteOCRDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Onenote2010 OCR Demo" Height="460" Width="1055"
+        xmlns:local="clr-namespace:PanAndZoom" ResizeMode="NoResize" Loaded="Window_Loaded" Closing="Window_Closing" Icon="/OnenoteOCRDemo;component/onenote-2010-icon.png">
+    <Grid>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="*"></RowDefinition>
+    </Grid.RowDefinitions>
+
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="Auto"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+    </Grid.ColumnDefinitions>
+
+    <Grid Grid.Row="0" Grid.Column="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="300"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+            <WrapPanel Grid.Row="0" Grid.Column="0">
+                <RadioButton Name="rbtn本地图片" Margin="3" Content="本地图片" IsChecked="True" VerticalAlignment="Center" GroupName="img" Checked="rbtn本地图片_Checked" />
+                <TextBox Name="txt本地图片" Margin="3" MinWidth="350" Height="25" VerticalContentAlignment="Center" />
+                <Button Name="btn浏览" Content="浏览(_W)" Margin="3" Padding="3" MinWidth="60" Click="btn浏览_Click" />
+            </WrapPanel>
+
+            <local:PanAndZoomViewer Grid.Row="3" Grid.Column="0" Height="300" Margin="3">
+            <Image Name="img图片" />
+        </local:PanAndZoomViewer>
+
+        <Label Grid.Row="4" Grid.Column="0" Name="labMsg" Content="请选择一个待解析的图片。" Foreground="Red" Margin="3" VerticalContentAlignment="Center" />
+    </Grid>
+
+    <StackPanel Grid.Row="0" Grid.Column="1" VerticalAlignment="Center">
+        <Button Name="btn清空" Content="清空(_C)" Margin="3" Padding="3" MinWidth="50" Click="btn清空_Click" />
+        <Button Name="btnOCR" Content="OCR(_O)" Margin="3" Padding="3" MinWidth="50" Click="btnOCR_Click" />
+        <Button Name="btnTest" Content="测试" Margin="3" Padding="3" MinWidth="50" Click="btnTest_Click" IsEnabled="False"/>
+    </StackPanel>
+
+    <StackPanel Grid.Row="0" Grid.Column="2">
+        <WrapPanel Grid.Row="0" Grid.Column="0">
+            <Label Name="lab输出目录" Content="输出目录：" Margin="3" VerticalContentAlignment="Center" />
+            <TextBox Name="txt输出目录" Margin="3" MinWidth="350" Height="25" VerticalContentAlignment="Center" />
+            <Button Name="btn输出浏览" Content="浏览(_Q)" Margin="3" Padding="3" MinWidth="50" Click="btn输出浏览_Click" />
+        </WrapPanel>
+
+        <TextBlock Name="txtOCRed" Margin="3" Padding="3" TextWrapping="WrapWithOverflow" />
+
+        <WrapPanel Grid.Row="0" Grid.Column="0">
+            <Label Name="lab_search" Content="搜索词：" Margin="3" VerticalContentAlignment="Center" />
+            <TextBox Name="searchWord" Margin="3" MinWidth="350" Height="25" VerticalContentAlignment="Center" />
+            <Button Name="btn_search" Content="搜索(_Q)" Margin="3" Padding="3" MinWidth="50" Click="btn_search_Click" />
+        </WrapPanel>
+        
+        <TextBlock Name="txtSearched" Margin="3" Padding="3" TextWrapping="WrapWithOverflow" />
+    </StackPanel>
+
+    </Grid>
+</Window>
